@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Evenos.IO.Infra.CrossCutting.Bus\Evenos.IO.Infra.CrossCutting.Bus.csproj" />
+    <ProjectReference Include="..\Evenos.IO.Infra.Data\Evenos.IO.Infra.Data.csproj" />
+    <ProjectReference Include="..\Eventos.IO.Application\Eventos.IO.Application.csproj" />
+    <ProjectReference Include="..\Eventos.IO.Domain\Eventos.IO.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

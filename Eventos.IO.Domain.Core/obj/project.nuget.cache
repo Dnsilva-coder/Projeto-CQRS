@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+u9wnLIs5ivCTSdl8a2TnJFXkWOvQOLGW/cEJVKK9O6Qs0s66b3xLGiPvBdZSdu74ft/vdrcr75s8UAQQlPkGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dnsilva\\Desktop\\Videos-EduardoPires\\Eventos.IO\\Eventos.IO\\Eventos.IO.Domain.Core\\Eventos.IO.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\bin\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.deps.json
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\bin\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\bin\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.AssemblyInfoInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.AssemblyInfo.cs
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.csproj.CoreCompileInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\obj\Debug\net8.0\refint\Evenos.IO.Infra.CrossCutting.identity.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.identity.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.identity\obj\Debug\net8.0\ref\Evenos.IO.Infra.CrossCutting.identity.dll

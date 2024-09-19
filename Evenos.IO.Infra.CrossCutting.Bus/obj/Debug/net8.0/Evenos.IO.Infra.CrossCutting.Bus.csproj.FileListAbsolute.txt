@@ -1,0 +1,15 @@
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\bin\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.deps.json
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\bin\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\bin\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\refint\Evenos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\ref\Evenos.IO.Infra.CrossCutting.Bus.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\bin\Debug\net8.0\Eventos.IO.Domain.Core.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\bin\Debug\net8.0\Eventos.IO.Domain.Core.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\Evenos.IO.Infra.CrossCutting.Bus.csproj.AssemblyReference.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Evenos.IO.Infra.CrossCutting.Bus\obj\Debug\net8.0\Evenos.I.59023084.Up2Date

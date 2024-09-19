@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Evenos.IO.Infra.CrossCutting.identity/1.0.0": {
+        "runtime": {
+          "Evenos.IO.Infra.CrossCutting.identity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Evenos.IO.Infra.CrossCutting.identity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\bin\Debug\net8.0\Eventos.IO.Application.deps.json
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\bin\Debug\net8.0\Eventos.IO.Application.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\bin\Debug\net8.0\Eventos.IO.Application.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\Eventos.IO.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\Eventos.IO.Application.AssemblyInfoInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\Eventos.IO.Application.AssemblyInfo.cs
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\Eventos.IO.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\Eventos.IO.Application.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\refint\Eventos.IO.Application.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\Eventos.IO.Application.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\ref\Eventos.IO.Application.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\Eventos.IO.Application.csproj.AssemblyReference.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\bin\Debug\net8.0\Eventos.IO.Domain.Core.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\bin\Debug\net8.0\Eventos.IO.Domain.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\bin\Debug\net8.0\Eventos.IO.Domain.Core.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\bin\Debug\net8.0\Eventos.IO.Domain.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Application\obj\Debug\net8.0\Eventos..34BEA704.Up2Date

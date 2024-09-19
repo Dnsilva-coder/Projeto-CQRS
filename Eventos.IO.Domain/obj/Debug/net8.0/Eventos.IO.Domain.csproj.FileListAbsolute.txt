@@ -1,0 +1,17 @@
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\bin\Debug\net8.0\Eventos.IO.Domain.deps.json
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\bin\Debug\net8.0\Eventos.IO.Domain.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\bin\Debug\net8.0\Eventos.IO.Domain.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\bin\Debug\net8.0\Eventos.IO.Domain.Core.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\bin\Debug\net8.0\Eventos.IO.Domain.Core.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos.IO.Domain.csproj.AssemblyReference.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos.IO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos.IO.Domain.AssemblyInfoInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos.IO.Domain.AssemblyInfo.cs
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos.IO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos..669B2551.Up2Date
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos.IO.Domain.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\refint\Eventos.IO.Domain.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos.IO.Domain.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\ref\Eventos.IO.Domain.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\bin\Debug\net8.0\Eventos.IO.Domain.runtimeconfig.json
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain\obj\Debug\net8.0\Eventos.IO.Domain.genruntimeconfig.cache

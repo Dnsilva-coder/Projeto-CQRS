@@ -1,0 +1,12 @@
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\bin\Debug\net8.0\Eventos.IO.Domain.Core.deps.json
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\bin\Debug\net8.0\Eventos.IO.Domain.Core.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\bin\Debug\net8.0\Eventos.IO.Domain.Core.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\Eventos.IO.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\Eventos.IO.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\Eventos.IO.Domain.Core.AssemblyInfo.cs
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\Eventos.IO.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\Eventos.IO.Domain.Core.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\refint\Eventos.IO.Domain.Core.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\Eventos.IO.Domain.Core.pdb
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\ref\Eventos.IO.Domain.Core.dll
+C:\Users\Dnsilva\Desktop\Videos-EduardoPires\Eventos.IO\Eventos.IO\Eventos.IO.Domain.Core\obj\Debug\net8.0\Eventos.IO.Domain.Core.csproj.AssemblyReference.cache

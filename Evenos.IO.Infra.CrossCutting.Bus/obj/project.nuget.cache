@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3KsEXmU82t15T+pTT3GOcHZ3AgQsVemQPi9g1MSWSvmKO2mgxTflESMKxc83cU4dcbkhH1bRohCmwsuLQOf+SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dnsilva\\Desktop\\Videos-EduardoPires\\Eventos.IO\\Eventos.IO\\Evenos.IO.Infra.CrossCutting.Bus\\Evenos.IO.Infra.CrossCutting.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Dnsilva\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
